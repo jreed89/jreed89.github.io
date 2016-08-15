@@ -4,3 +4,39 @@
   text-align: center;
   text-shadow: 2px 2px orange;
 }*/
+html {
+  background: #D7CCC8;
+}
+h4 {
+  text-align: center;
+}
+
+/*#projects {
+   text-align: center;
+ }*/
+
+#Resume {
+  text-align: center;
+}
+.one{
+  border: 2px solid blue;
+}
+#two{
+  border: 2px solid red;
+  width: 50%;
+  height: auto;
+
+}
+/*#right{
+  float:right;
+}*/
+#josh{
+  clear: both;
+  float: left;
+  width: 50%;
+  height: 100%;
+
+}
+#body{
+  float: right;
+}
