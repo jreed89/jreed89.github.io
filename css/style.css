@@ -18,11 +18,11 @@ h4 {
 #Resume {
   text-align: center;
 }
-.one{
+/*.one{
   border: 2px solid blue;
-}
-#two{
-  border: 2px solid red;
+}*/
+.two{
+  border: 2px solid black;
   width: 50%;
   height: auto;
 
@@ -33,10 +33,24 @@ h4 {
 #josh{
   clear: both;
   float: left;
-  width: 50%;
-  height: 100%;
+  /*width: 30%;*/
+  border-radius: 50px;
+
 
 }
 #body{
   float: right;
+}
+
+.contact {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: row;
+}
+p {
+	margin-bottom: 0;
+}
+.font{
+  font-size: 20px;
 }
